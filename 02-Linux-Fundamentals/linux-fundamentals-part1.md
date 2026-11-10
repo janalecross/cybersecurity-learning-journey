@@ -23,9 +23,9 @@ I'm learning how to use the Linux terminal and understand basic commands.
 Shell Operators (Combing Commands)
 
 | `&` | Runs the command, but does not wait for it to finish before you can do anything else. The command runs in the backgorund, and is helpful for commands that might take a while to complete, or ones that you want to keep running. |
-| `&&` | Runs the command, but does not wait for it to finish before you can do anything else. The command runs in the backgorund, and is helpful for commands that might take a while to complete, o
-| `>` | Used to redirect output. We can take the output of a command and send it to a file. This operator will overwrite anything that exists in the file.
-| `>>` | This redirector does the same thing, but instead of overwriting, it will just add the output to the bottom of the file.
+| `&&` | chain two or more commands together |
+| `>` | Used to redirect output. We can take the output of a command and send it to a file. This operator will overwrite anything that exists in the file. |
+| `>>` | This redirector does the same thing, but instead of overwriting, it will just add the output to the bottom of the file. |
 
 *I'll update this list as I practise more commands.*
 
