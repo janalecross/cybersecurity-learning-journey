@@ -20,13 +20,13 @@ Flags and switches are options that change how a Linux command works.
 
 For example, ls is a command that shows files and directories.
 
-ls — Shows files and directories.
+- ls — Shows files and directories.
 
-ls -l — Shows more details about files, such as permissions and ownership.
+- ls -l — Shows more details about files, such as permissions and ownership.
 
-ls -a — Shows hidden files as well.
+- ls -a — Shows hidden files as well.
 
-ls -la — Combines both flags to show detailed information, including hidden files.
+- ls -la — Combines both flags to show detailed information, including hidden files.
 
 What I learned:
 
@@ -40,19 +40,19 @@ Filesystem interaction is using Linux commands to work with files and directorie
 
 Some commands I learned:
 
-ls — Shows files and directories.
+- ls — Shows files and directories.
 
-cd — Changes directory.
+- cd — Changes directory.
 
-mkdir — Creates a new directory.
+- mkdir — Creates a new directory.
 
-touch — Creates an empty file if it doesn't already exist.
+- touch — Creates an empty file if it doesn't already exist.
 
-cp — Copies files.
+- cp — Copies files.
 
-mv — Moves or renames files.
+- mv — Moves or renames files.
 
-rm — Removes files.
+- rm — Removes files.
 
 What I learned:
 
@@ -66,7 +66,6 @@ Why is it useful for a SOC Analyst?
 
 These commands can help me navigate Linux systems, locate logs and organise files when investigating security incidents.
 
-### 4. File Permissions
 
 ### 4. Linux File Permissions
 
