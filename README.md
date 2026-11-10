@@ -92,6 +92,7 @@ Each completed lab will document the objective, tools used, methodology, finding
 |---|---|
 | Build cybersecurity GitHub repository | ✅ Completed |
 | Complete Google Cybersecurity Certificate | 🔄 In Progress |
+| Try Hack ME | 🔄 In Progress |
 | Document networking fundamentals | 📋 Planned |
 | Publish first security lab write-up | 📋 Planned |
 | Build first Python security project | 📋 Planned |
