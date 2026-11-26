@@ -107,7 +107,9 @@ I would need to investigate whether a scheduled task is legitimate or suspicious
 
 Imagine you're investigating a Linux server and find this scheduled cron task:
 
+``` bash 
 */5 * * * * /tmp/update.sh
+```
 
 **What I learned from the exercise:**
 
