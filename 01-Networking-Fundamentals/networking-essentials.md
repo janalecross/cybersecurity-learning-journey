@@ -2,7 +2,7 @@
 
 **Learning Path:** Cyber Security 101  
 **Room:** Networking Essentials  
-**Topics:** DHCP, ARP, ICMP, Routing and NAT
+**Topics:** DHCP, ARP, ICMP, Routing and NAT gg
 
 ## 1. DHCP — Dynamic Host Configuration Protocol
 
